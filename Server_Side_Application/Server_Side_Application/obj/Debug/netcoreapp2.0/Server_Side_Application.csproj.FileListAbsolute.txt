@@ -1,0 +1,11 @@
+C:\Users\Katarina\source\repos\Server_Side_Application\Server_Side_Application\bin\Debug\netcoreapp2.0\Server_Side_Application.deps.json
+C:\Users\Katarina\source\repos\Server_Side_Application\Server_Side_Application\bin\Debug\netcoreapp2.0\Server_Side_Application.runtimeconfig.json
+C:\Users\Katarina\source\repos\Server_Side_Application\Server_Side_Application\bin\Debug\netcoreapp2.0\Server_Side_Application.runtimeconfig.dev.json
+C:\Users\Katarina\source\repos\Server_Side_Application\Server_Side_Application\bin\Debug\netcoreapp2.0\Server_Side_Application.dll
+C:\Users\Katarina\source\repos\Server_Side_Application\Server_Side_Application\bin\Debug\netcoreapp2.0\Server_Side_Application.pdb
+C:\Users\Katarina\source\repos\Server_Side_Application\Server_Side_Application\obj\Debug\netcoreapp2.0\Server_Side_Application.csprojAssemblyReference.cache
+C:\Users\Katarina\source\repos\Server_Side_Application\Server_Side_Application\obj\Debug\netcoreapp2.0\Server_Side_Application.csproj.CoreCompileInputs.cache
+C:\Users\Katarina\source\repos\Server_Side_Application\Server_Side_Application\obj\Debug\netcoreapp2.0\Server_Side_Application.AssemblyInfoInputs.cache
+C:\Users\Katarina\source\repos\Server_Side_Application\Server_Side_Application\obj\Debug\netcoreapp2.0\Server_Side_Application.AssemblyInfo.cs
+C:\Users\Katarina\source\repos\Server_Side_Application\Server_Side_Application\obj\Debug\netcoreapp2.0\Server_Side_Application.dll
+C:\Users\Katarina\source\repos\Server_Side_Application\Server_Side_Application\obj\Debug\netcoreapp2.0\Server_Side_Application.pdb
