@@ -13031,11 +13031,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Katarina\\source\\repos\\Server_Side_Application\\Server_Side_Application\\Server_Side_Application.csproj",
+      "projectUniqueName": "C:\\Users\\Katarina\\TopTenIceCream\\Server_Side_Application\\Server_Side_Application\\Server_Side_Application.csproj",
       "projectName": "Server_Side_Application",
-      "projectPath": "C:\\Users\\Katarina\\source\\repos\\Server_Side_Application\\Server_Side_Application\\Server_Side_Application.csproj",
+      "projectPath": "C:\\Users\\Katarina\\TopTenIceCream\\Server_Side_Application\\Server_Side_Application\\Server_Side_Application.csproj",
       "packagesPath": "C:\\Users\\Katarina\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Katarina\\source\\repos\\Server_Side_Application\\Server_Side_Application\\obj\\",
+      "outputPath": "C:\\Users\\Katarina\\TopTenIceCream\\Server_Side_Application\\Server_Side_Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
